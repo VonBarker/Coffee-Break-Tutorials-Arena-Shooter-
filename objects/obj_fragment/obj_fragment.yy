@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_par_decal",
+    "path": "objects/obj_par_decal/obj_par_decal.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
